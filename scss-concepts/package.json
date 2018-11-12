@@ -1,0 +1,28 @@
+{
+  "name": "learn-css-scss",
+  "version": "1.0.0",
+  "description": "learning css and scss",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikantsahu-avalara/learn-css-scss.git"
+  },
+  "author": "Srikant sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikantsahu-avalara/learn-css-scss/issues"
+  },
+  "homepage": "https://github.com/srikantsahu-avalara/learn-css-scss#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "watch": "^1.0.2"
+  }
+}
